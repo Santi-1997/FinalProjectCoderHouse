@@ -1,0 +1,15 @@
+D:\Santi\CoderCSharp\ProyectoIntegrador\ProyectoIntegrador\ProyectoIntegrador\bin\Debug\net6.0\ProyectoIntegrador.exe
+D:\Santi\CoderCSharp\ProyectoIntegrador\ProyectoIntegrador\ProyectoIntegrador\bin\Debug\net6.0\ProyectoIntegrador.deps.json
+D:\Santi\CoderCSharp\ProyectoIntegrador\ProyectoIntegrador\ProyectoIntegrador\bin\Debug\net6.0\ProyectoIntegrador.runtimeconfig.json
+D:\Santi\CoderCSharp\ProyectoIntegrador\ProyectoIntegrador\ProyectoIntegrador\bin\Debug\net6.0\ProyectoIntegrador.dll
+D:\Santi\CoderCSharp\ProyectoIntegrador\ProyectoIntegrador\ProyectoIntegrador\bin\Debug\net6.0\ProyectoIntegrador.pdb
+D:\Santi\CoderCSharp\ProyectoIntegrador\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\net6.0\ProyectoIntegrador.csproj.AssemblyReference.cache
+D:\Santi\CoderCSharp\ProyectoIntegrador\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\net6.0\ProyectoIntegrador.GeneratedMSBuildEditorConfig.editorconfig
+D:\Santi\CoderCSharp\ProyectoIntegrador\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\net6.0\ProyectoIntegrador.AssemblyInfoInputs.cache
+D:\Santi\CoderCSharp\ProyectoIntegrador\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\net6.0\ProyectoIntegrador.AssemblyInfo.cs
+D:\Santi\CoderCSharp\ProyectoIntegrador\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\net6.0\ProyectoIntegrador.csproj.CoreCompileInputs.cache
+D:\Santi\CoderCSharp\ProyectoIntegrador\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\net6.0\ProyectoIntegrador.dll
+D:\Santi\CoderCSharp\ProyectoIntegrador\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\net6.0\refint\ProyectoIntegrador.dll
+D:\Santi\CoderCSharp\ProyectoIntegrador\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\net6.0\ProyectoIntegrador.pdb
+D:\Santi\CoderCSharp\ProyectoIntegrador\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\net6.0\ProyectoIntegrador.genruntimeconfig.cache
+D:\Santi\CoderCSharp\ProyectoIntegrador\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\net6.0\ref\ProyectoIntegrador.dll
